@@ -6,5 +6,5 @@
   "forceUpdateCurrentVersion": "2.0.0",
   "urlAppStore": "http://google.com",
   "urlPlayStore": "http://google.com",
-  "maintenance": false
+  "maintenance": true
 }
