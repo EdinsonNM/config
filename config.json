@@ -9,8 +9,7 @@
   "maintenanceIOS": true,
   "maintenanceAndroid": false,
   "maintenanceMessage": "Estamos trabajando en mejorar la experiencia en nuestra aplicación. Te invitamos a acceder desde la web.",
-  "maintenanceAction": "https://miespacio.pacifico.com.pe",
+  "maintenanceAction": "",
   "maintenanceActionText": "Dirigirme a la web",
-  "maintenanceActionShow":true,
-  "maintenanceAndroidMessage": "Android:Estamos trabajando en mejorar la experiencia en nuestra aplicación. Por favor vuelta a intentar más tarde."
+  "maintenanceActionShow":true
 }
