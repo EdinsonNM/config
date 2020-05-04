@@ -9,7 +9,7 @@
   "maintenanceIOS": true,
   "maintenanceAndroid": false,
   "maintenanceMessage": "Estamos trabajando en mejorar la experiencia en nuestra aplicación. Te invitamos a acceder desde la web.",
-  "maintenanceAction": false,
+  "maintenanceAction": "",
   "maintenanceActionText": "Dirigirme a la web",
   "maintenanceActionShow":true
 }
