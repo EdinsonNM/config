@@ -9,5 +9,5 @@
   "maintenanceIOS": true,
   "maintenanceAndroid": false,
   "maintenanceIOSMessage": "IOS: Estamos trabajando en mejorar la experiencia en nuestra aplicación. Por favor vuelta a intentar más tarde.",
-  "maintenanceAndroidMessage": "Estamos trabajando en mejorar la experiencia en nuestra aplicación. Por favor vuelta a intentar más tarde."
+  "maintenanceAndroidMessage": "Android:Estamos trabajando en mejorar la experiencia en nuestra aplicación. Por favor vuelta a intentar más tarde."
 }
