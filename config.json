@@ -6,6 +6,7 @@
   "forceUpdateCurrentVersion": "2.0.0",
   "urlAppStore": "https://apps.apple.com/pe/app/mi-espacio-pac%C3%ADfico/id1469237859",
   "urlPlayStore": "https://play.google.com/store/apps/details?id=pe.com.pacifico.miespacio",
+  "maintenance":false,
   "maintenanceIOS": true,
   "maintenanceAndroid": false,
   "maintenanceMessage": "Estamos trabajando en mejorar la experiencia en nuestra aplicación. Te invitamos a acceder desde la web.",
