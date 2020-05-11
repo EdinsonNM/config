@@ -3,7 +3,7 @@
   "urlHome": "https://cert-web.prisma.innovacionpacifico.com",
   "analytics": "UA-101596658-11",
   "urlLogin": "https://pacificociab2cuat01.b2clogin.com/pacificociab2cuat01.onmicrosoft.com/oauth2/v2.0/authorize?p=B2C_1A_signin&client_id=0f6503d5-d0ae-4481-934d-61a80682bb4c&nonce=defaultNonce&redirect_uri=https%3A%2F%2Fcert-web.prisma.innovacionpacifico.com&scope=openid&response_type=id_token&prompt=login",
-  "forceUpdateCurrentVersion": "1.0.0",
+  "forceUpdateCurrentVersion": "3.0.0",
   "urlAppStore": "https://apps.apple.com/pe/app/mi-espacio-pac%C3%ADfico/id1469237859",
   "urlPlayStore": "https://play.google.com/store/apps/details?id=pe.com.pacifico.miespacio",
   "maintenance":false,
