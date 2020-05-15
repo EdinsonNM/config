@@ -1,8 +1,8 @@
 {
-  "urlServer": "https://int-api.prisma.innovacionpacifico.com/api/prisma",
-  "urlHome": "https://int-web.prisma.innovacionpacifico.com",
-  "analytics": "UA-101596658-11",
-  "forceUpdateCurrentVersion": "2.0.0",
+  "urlServer": "https://api.prisma.innovacionpacifico.com/api/prisma",
+  "urlHome": "https://miespacio.pacifico.com.pe",
+  "analytics": "UA-101596658-13",
+  "forceUpdateCurrentVersion": "1.0.0",
   "urlAppStore": "https://apps.apple.com/pe/app/mi-espacio-pac%C3%ADfico/id1469237859",
   "urlPlayStore": "https://play.google.com/store/apps/details?id=pe.com.pacifico.miespacio",
   "maintenanceIOS": false,
