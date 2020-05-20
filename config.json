@@ -2,7 +2,7 @@
   "urlServer": "https://cert-api.prisma.innovacionpacifico.com/api/prisma",
   "urlHome": "https://cert-web.prisma.innovacionpacifico.com",
   "analytics": "UA-101596658-12",
-  "versionIOS": "2.0.0",
+  "versionIOS": "2.0.1",
   "versionAndroid": "2.0.0",
   "urlAppStore": "https://apps.apple.com/pe/app/mi-espacio-pac%C3%ADfico/id1469237859",
   "urlPlayStore": "https://play.google.com/store/apps/details?id=pe.com.pacifico.miespacio",
